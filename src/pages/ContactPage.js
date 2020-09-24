@@ -8,7 +8,7 @@ const useStyles = makeStyles((theme) => ({
     button: {
       margin: theme.spacing(1),
     },
-  }));
+}));
 
 function ContactPage(props) {
     const classes = useStyles();

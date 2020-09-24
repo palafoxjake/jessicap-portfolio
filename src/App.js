@@ -19,7 +19,7 @@ class App extends React.Component {
       home: {
         title: 'Exploring New Worlds',
         subTitle: 'Different Fields in Computer Engineering',
-        text: 'Click on the Photos'
+        text: 'Start exploring by clicking on the photos'
       },
       about: {
         title: 'About Me'
